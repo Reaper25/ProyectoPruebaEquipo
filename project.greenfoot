@@ -1,4 +1,5 @@
 #Greenfoot properties
+<<<<<<< HEAD
 #Thu Oct 13 10:33:23 CDT 2016
 readme.name=@README
 target2.name=MyWorld
@@ -11,9 +12,18 @@ target2.y=10
 package.numTargets=2
 target2.x=70
 target1.height=50
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+class.Enemigo.superclass=greenfoot.Actor
+target1.type=ClassTarget
+class.MyWorld.image=space.jpg
+class.MyWorld.superclass=greenfoot.World
+>>>>>>> origin/master
 class.Nave.image=rocket.png
 editor.swing.0.y=0
 editor.swing.0.x=0
+<<<<<<< HEAD
 target1.y=10
 target2.height=50
 target1.x=160
@@ -23,19 +33,26 @@ class.Enemigo.image=robot.png
 target1.name=Enemigo
 editor.swing.0.width=865
 editor.fx.0.width=700
+=======
+>>>>>>> origin/master
 class.MyWorld.image=space.jpg
 target2.typeParameters=
 readme.y=10
 readme.x=10
 mainWindow.width=850
 target1.typeParameters=
+<<<<<<< HEAD
 target2.width=80
 mainWindow.y=40
+=======
+class.meteorito.superclass=greenfoot.Actor
+>>>>>>> origin/master
 target1.width=80
 mainWindow.height=600
 mainWindow.x=40
 editor.fx.0.y=0
 editor.fx.0.x=0
+<<<<<<< HEAD
 readme.width=47
 target2.type=ClassTarget
 class.meteorito.image=rock.png
@@ -46,3 +63,10 @@ version=2.8.0
 package.numDependencies=0
 project.charset=UTF-8
 readme.height=58
+=======
+editor.swing.0.height=0
+readme.width=47
+editor.swing.0.width=0
+package.numDependencies=0
+readme.name=@README
+>>>>>>> origin/master
